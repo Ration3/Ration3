@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Ethan Reed 👋
 
-<!--
-**Ration3/Ration3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Senior AI/ML Engineer
 
-Here are some ideas to get you started:
+I'm a passionate machine learning engineer focused on building scalable AI systems. I specialize in deep learning, NLP, and computer vision.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Technical Skills
+- **Languages:** Julia, Python, C++, R
+- **Frameworks:** Flux.jl, PyTorch, TensorFlow, Scikit-learn
+- **Tools:** Docker, Kubernetes, AWS, Git
+
+### 📊 GitHub Stats
+![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ration3&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ration3&layout=compact&theme=radical)
+
+### 📫 How to reach me
+- [LinkedIn](https://linkedin.com/in/ethanreedai)
+- [Twitter](https://twitter.com/EthanReedAI)
